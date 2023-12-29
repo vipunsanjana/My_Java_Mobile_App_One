@@ -5,4 +5,6 @@
 
     <color name="text_color_one">#EC0707</color>
     <color name="text_color_two">#2196F3</color>
+    <color name="text_color_three">#04226E</color>
+    <color name="text_color_background">#72E16A</color>
 </resources>
